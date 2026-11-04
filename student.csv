@@ -1,0 +1,501 @@
+student_id,name,age,department,favorite_subject,year,cgpa,city,email
+1,Aarav Iyer,22,Mathematics,Calculus,2,6.56,Delhi,aarav.iyer1@example.com
+2,Saanvi Roy,18,Mathematics,Linear Algebra,1,6.87,Lucknow,saanvi.roy2@example.com
+3,Aryan Singh,29,Computer Science,Computer Networks,4,6.88,Bhubaneswar,aryan.singh3@example.com
+4,Aarav Khan,30,Electronics,Microprocessors,4,7.36,Mumbai,aarav.khan4@example.com
+5,Neha Verma,19,Chemistry,Biochemistry,1,7.44,Hyderabad,neha.verma5@example.com
+6,Vivaan Iyer,25,Electronics,VLSI,1,9.89,Pune,vivaan.iyer6@example.com
+7,Aryan Patel,28,Mathematics,Number Theory,3,8.31,Delhi,aryan.patel7@example.com
+8,Diya Khan,22,Computer Science,Data Structures,2,9.47,Pune,diya.khan8@example.com
+9,Aisha Reddy,23,Electronics,Microprocessors,3,7.42,Chennai,aisha.reddy9@example.com
+10,Nisha Reddy,20,Mathematics,Number Theory,2,6.65,Pune,nisha.reddy10@example.com
+11,Aryan Singh,28,Electronics,Embedded Systems,1,6.92,Kolkata,aryan.singh11@example.com
+12,Karan Patel,19,Mechanical,Fluid Mechanics,3,6.85,Jaipur,karan.patel12@example.com
+13,Aisha Gupta,22,Civil,Surveying,2,8.98,Lucknow,aisha.gupta13@example.com
+14,Saanvi Roy,27,Electronics,Signals,3,6.88,Mumbai,saanvi.roy14@example.com
+15,Aditya Khan,18,Biotechnology,Genetics,2,8.51,Pune,aditya.khan15@example.com
+16,Karan Roy,27,Mathematics,Discrete Mathematics,3,9.88,Kolkata,karan.roy16@example.com
+17,Aryan Khan,22,Mathematics,Statistics,1,7.17,Mumbai,aryan.khan17@example.com
+18,Aarav Iyer,29,Biotechnology,Biochemistry,2,8.03,Delhi,aarav.iyer18@example.com
+19,Kabir Nair,21,Electronics,Microprocessors,3,9.05,Lucknow,kabir.nair19@example.com
+20,Nisha Das,25,Computer Science,Data Structures,1,9.72,Chennai,nisha.das20@example.com
+21,Vivaan Singh,27,Chemistry,Organic Chemistry,1,8.93,Delhi,vivaan.singh21@example.com
+22,Krishna Reddy,25,Physics,Mechanics,2,7.06,Bhubaneswar,krishna.reddy22@example.com
+23,Ananya Banerjee,26,Civil,Surveying,3,7.6,Hyderabad,ananya.banerjee23@example.com
+24,Kabir Mondal,19,Biotechnology,Microbiology,2,6.26,Kolkata,kabir.mondal24@example.com
+25,Saanvi Singh,18,Chemistry,Organic Chemistry,1,6.92,Kolkata,saanvi.singh25@example.com
+26,Aditya Ghosh,21,Mechanical,Machine Design,4,6.86,Mumbai,aditya.ghosh26@example.com
+27,Diya Khan,25,Biotechnology,Cell Biology,2,6.38,Pune,diya.khan27@example.com
+28,Sneha Roy,25,Mechanical,Thermodynamics,1,6.24,Hyderabad,sneha.roy28@example.com
+29,Diya Singh,21,Mathematics,Number Theory,4,6.56,Mumbai,diya.singh29@example.com
+30,Aisha Singh,19,Electronics,Signals,1,6.2,Lucknow,aisha.singh30@example.com
+31,Aditya Banerjee,30,Computer Science,Operating Systems,2,7.63,Jaipur,aditya.banerjee31@example.com
+32,Karan Banerjee,18,Chemistry,Physical Chemistry,4,6.01,Pune,karan.banerjee32@example.com
+33,Aisha Patel,24,Electronics,VLSI,4,6.62,Chennai,aisha.patel33@example.com
+34,Vivaan Nair,29,Chemistry,Inorganic Chemistry,1,8.99,Kolkata,vivaan.nair34@example.com
+35,Saanvi Mondal,26,Computer Science,Computer Networks,2,6.23,Lucknow,saanvi.mondal35@example.com
+36,Rohan Verma,27,Mathematics,Linear Algebra,2,7.62,Bhubaneswar,rohan.verma36@example.com
+37,Saanvi Nair,18,Chemistry,Inorganic Chemistry,1,7.68,Bhubaneswar,saanvi.nair37@example.com
+38,Ishita Singh,28,Mechanical,Machine Design,2,7.06,Mumbai,ishita.singh38@example.com
+39,Aisha Das,30,Electronics,Digital Electronics,1,7.83,Bhubaneswar,aisha.das39@example.com
+40,Aditya Ghosh,21,Mathematics,Number Theory,3,6.53,Hyderabad,aditya.ghosh40@example.com
+41,Diya Das,22,Mathematics,Calculus,4,9.33,Chennai,diya.das41@example.com
+42,Aryan Patel,28,Computer Science,Data Structures,2,7.06,Delhi,aryan.patel42@example.com
+43,Ishita Patel,27,Physics,Thermodynamics,3,6.81,Chennai,ishita.patel43@example.com
+44,Ishita Banerjee,18,Biotechnology,Genetics,4,9.32,Kolkata,ishita.banerjee44@example.com
+45,Neha Khan,20,Computer Science,Python,2,8.96,Lucknow,neha.khan45@example.com
+46,Aryan Sharma,19,Civil,Structural Engineering,2,8.18,Hyderabad,aryan.sharma46@example.com
+47,Sneha Gupta,18,Physics,Electromagnetism,3,9.6,Kolkata,sneha.gupta47@example.com
+48,Ananya Reddy,21,Mechanical,Thermodynamics,3,9.12,Pune,ananya.reddy48@example.com
+49,Diya Ali,20,Physics,Thermodynamics,4,6.1,Hyderabad,diya.ali49@example.com
+50,Diya Patel,20,Civil,Structural Engineering,4,9.49,Jaipur,diya.patel50@example.com
+51,Ananya Ali,25,Chemistry,Analytical Chemistry,3,9.28,Bengaluru,ananya.ali51@example.com
+52,Aarav Reddy,21,Chemistry,Biochemistry,3,7.11,Delhi,aarav.reddy52@example.com
+53,Rahul Reddy,26,Electronics,Signals,3,9.76,Delhi,rahul.reddy53@example.com
+54,Rohan Nair,22,Electronics,Digital Electronics,1,8.39,Hyderabad,rohan.nair54@example.com
+55,Sneha Nair,26,Mechanical,Thermodynamics,4,9.6,Bengaluru,sneha.nair55@example.com
+56,Vivaan Iyer,24,Electronics,Digital Electronics,2,7.46,Delhi,vivaan.iyer56@example.com
+57,Nisha Das,28,Mechanical,Thermodynamics,3,8.03,Pune,nisha.das57@example.com
+58,Karan Iyer,22,Mechanical,CAD,2,6.77,Pune,karan.iyer58@example.com
+59,Nisha Nair,22,Physics,Optics,1,7.22,Bengaluru,nisha.nair59@example.com
+60,Saanvi Nair,28,Civil,Geotechnical,4,7.77,Bengaluru,saanvi.nair60@example.com
+61,Rohan Reddy,19,Biotechnology,Biochemistry,3,6.37,Bengaluru,rohan.reddy61@example.com
+62,Diya Khan,21,Electronics,Microprocessors,1,6.18,Jaipur,diya.khan62@example.com
+63,Aisha Roy,28,Mathematics,Number Theory,2,8.87,Pune,aisha.roy63@example.com
+64,Karan Singh,20,Biotechnology,Genetics,1,9.11,Bengaluru,karan.singh64@example.com
+65,Kabir Mondal,18,Physics,Mechanics,2,9.67,Delhi,kabir.mondal65@example.com
+66,Krishna Khan,25,Biotechnology,Bioinformatics,3,9.8,Jaipur,krishna.khan66@example.com
+67,Aryan Mondal,20,Civil,Transportation,4,7.04,Bengaluru,aryan.mondal67@example.com
+68,Kabir Mondal,28,Electronics,Microprocessors,3,7.76,Chennai,kabir.mondal68@example.com
+69,Ishita Das,23,Chemistry,Inorganic Chemistry,1,6.55,Bengaluru,ishita.das69@example.com
+70,Krishna Iyer,21,Civil,Structural Engineering,4,7.63,Lucknow,krishna.iyer70@example.com
+71,Sneha Sharma,21,Biotechnology,Cell Biology,4,9.62,Bhubaneswar,sneha.sharma71@example.com
+72,Saanvi Roy,25,Computer Science,Data Structures,3,7.19,Pune,saanvi.roy72@example.com
+73,Aryan Iyer,29,Civil,Environmental Engineering,2,7.95,Chennai,aryan.iyer73@example.com
+74,Meera Sharma,24,Civil,Geotechnical,4,8.9,Jaipur,meera.sharma74@example.com
+75,Nisha Ghosh,18,Physics,Optics,1,6.34,Pune,nisha.ghosh75@example.com
+76,Aisha Gupta,18,Physics,Electromagnetism,4,7.31,Jaipur,aisha.gupta76@example.com
+77,Neha Khan,24,Mechanical,Machine Design,4,7.01,Delhi,neha.khan77@example.com
+78,Aarav Iyer,26,Biotechnology,Genetics,3,6.9,Delhi,aarav.iyer78@example.com
+79,Aarav Singh,21,Computer Science,Data Structures,2,6.95,Jaipur,aarav.singh79@example.com
+80,Saanvi Singh,25,Mathematics,Statistics,3,6.67,Bhubaneswar,saanvi.singh80@example.com
+81,Rohan Patel,19,Mathematics,Number Theory,1,9.72,Bhubaneswar,rohan.patel81@example.com
+82,Karan Iyer,21,Civil,Structural Engineering,2,6.41,Chennai,karan.iyer82@example.com
+83,Saanvi Khan,18,Mathematics,Statistics,4,8.65,Delhi,saanvi.khan83@example.com
+84,Aarav Ali,24,Mechanical,Manufacturing,1,7.73,Hyderabad,aarav.ali84@example.com
+85,Krishna Roy,20,Biotechnology,Bioinformatics,3,8.46,Lucknow,krishna.roy85@example.com
+86,Aisha Roy,29,Biotechnology,Bioinformatics,3,7.29,Bengaluru,aisha.roy86@example.com
+87,Ishita Banerjee,25,Mathematics,Calculus,4,8.28,Pune,ishita.banerjee87@example.com
+88,Aarav Mondal,23,Mechanical,Fluid Mechanics,4,6.85,Chennai,aarav.mondal88@example.com
+89,Ishita Banerjee,27,Mechanical,Machine Design,1,8.07,Bengaluru,ishita.banerjee89@example.com
+90,Diya Iyer,24,Mathematics,Discrete Mathematics,2,8.76,Jaipur,diya.iyer90@example.com
+91,Aarav Verma,22,Biotechnology,Microbiology,4,8.77,Chennai,aarav.verma91@example.com
+92,Meera Ghosh,26,Mechanical,Machine Design,4,9.99,Lucknow,meera.ghosh92@example.com
+93,Rahul Iyer,25,Mechanical,Machine Design,3,7.01,Delhi,rahul.iyer93@example.com
+94,Neha Verma,29,Chemistry,Inorganic Chemistry,2,6.77,Jaipur,neha.verma94@example.com
+95,Saanvi Khan,26,Electronics,VLSI,3,9.92,Bengaluru,saanvi.khan95@example.com
+96,Diya Das,20,Electronics,Embedded Systems,1,8.83,Mumbai,diya.das96@example.com
+97,Vivaan Sharma,26,Electronics,Embedded Systems,2,8.55,Jaipur,vivaan.sharma97@example.com
+98,Aarav Nair,22,Mathematics,Discrete Mathematics,4,7.76,Mumbai,aarav.nair98@example.com
+99,Ishita Ali,25,Computer Science,Data Structures,1,7.6,Delhi,ishita.ali99@example.com
+100,Krishna Gupta,30,Computer Science,Computer Networks,3,6.34,Bengaluru,krishna.gupta100@example.com
+101,Aryan Khan,24,Mathematics,Number Theory,2,9.1,Pune,aryan.khan101@example.com
+102,Aisha Patel,27,Biotechnology,Cell Biology,3,8.27,Kolkata,aisha.patel102@example.com
+103,Ananya Reddy,21,Mathematics,Statistics,1,6.63,Mumbai,ananya.reddy103@example.com
+104,Rohan Sharma,24,Mathematics,Discrete Mathematics,4,7.17,Bengaluru,rohan.sharma104@example.com
+105,Priya Iyer,25,Electronics,Digital Electronics,2,9.7,Bhubaneswar,priya.iyer105@example.com
+106,Sneha Verma,26,Chemistry,Physical Chemistry,2,9.63,Mumbai,sneha.verma106@example.com
+107,Vivaan Gupta,30,Mathematics,Statistics,3,7.76,Jaipur,vivaan.gupta107@example.com
+108,Karan Patel,26,Electronics,VLSI,4,7.75,Bhubaneswar,karan.patel108@example.com
+109,Sneha Iyer,23,Computer Science,Computer Networks,3,6.1,Bengaluru,sneha.iyer109@example.com
+110,Ishita Nair,18,Computer Science,Operating Systems,4,8.08,Jaipur,ishita.nair110@example.com
+111,Rohan Nair,24,Electronics,Signals,1,7.88,Pune,rohan.nair111@example.com
+112,Neha Reddy,19,Mechanical,Fluid Mechanics,3,7.65,Jaipur,neha.reddy112@example.com
+113,Karan Ali,30,Electronics,VLSI,1,7.82,Hyderabad,karan.ali113@example.com
+114,Neha Verma,30,Electronics,Signals,1,8.63,Lucknow,neha.verma114@example.com
+115,Sneha Sharma,21,Biotechnology,Bioinformatics,3,8.49,Jaipur,sneha.sharma115@example.com
+116,Vivaan Singh,22,Biotechnology,Bioinformatics,2,9.71,Jaipur,vivaan.singh116@example.com
+117,Arjun Sharma,28,Biotechnology,Bioinformatics,2,8.84,Chennai,arjun.sharma117@example.com
+118,Aryan Roy,19,Computer Science,Operating Systems,1,7.85,Delhi,aryan.roy118@example.com
+119,Meera Banerjee,29,Physics,Electromagnetism,3,7.66,Jaipur,meera.banerjee119@example.com
+120,Diya Mondal,26,Biotechnology,Microbiology,4,6.76,Bhubaneswar,diya.mondal120@example.com
+121,Aditya Patel,30,Physics,Optics,3,9.74,Lucknow,aditya.patel121@example.com
+122,Aarav Patel,29,Electronics,Embedded Systems,4,9.46,Jaipur,aarav.patel122@example.com
+123,Rahul Das,26,Biotechnology,Bioinformatics,4,7.82,Hyderabad,rahul.das123@example.com
+124,Diya Nair,24,Chemistry,Physical Chemistry,4,6.17,Jaipur,diya.nair124@example.com
+125,Karan Reddy,30,Civil,Surveying,4,9.86,Mumbai,karan.reddy125@example.com
+126,Arjun Ali,25,Mechanical,Thermodynamics,4,6.06,Mumbai,arjun.ali126@example.com
+127,Krishna Verma,25,Civil,Geotechnical,3,8.49,Pune,krishna.verma127@example.com
+128,Neha Ali,28,Mathematics,Number Theory,4,9.82,Jaipur,neha.ali128@example.com
+129,Nisha Verma,21,Computer Science,Python,2,8.99,Pune,nisha.verma129@example.com
+130,Arjun Mondal,20,Mathematics,Statistics,1,6.18,Kolkata,arjun.mondal130@example.com
+131,Rahul Das,24,Electronics,Microprocessors,2,8.12,Bhubaneswar,rahul.das131@example.com
+132,Rohan Gupta,19,Physics,Mechanics,4,8.48,Bengaluru,rohan.gupta132@example.com
+133,Saanvi Gupta,21,Biotechnology,Cell Biology,3,7.84,Kolkata,saanvi.gupta133@example.com
+134,Priya Reddy,26,Biotechnology,Microbiology,1,7.77,Hyderabad,priya.reddy134@example.com
+135,Sneha Iyer,22,Electronics,Signals,3,6.8,Pune,sneha.iyer135@example.com
+136,Arjun Singh,24,Biotechnology,Bioinformatics,3,8.3,Chennai,arjun.singh136@example.com
+137,Karan Patel,18,Computer Science,Computer Networks,1,9.64,Jaipur,karan.patel137@example.com
+138,Diya Nair,30,Electronics,Embedded Systems,2,8.55,Bhubaneswar,diya.nair138@example.com
+139,Krishna Reddy,19,Electronics,Digital Electronics,3,9.15,Kolkata,krishna.reddy139@example.com
+140,Krishna Verma,22,Mechanical,Machine Design,4,6.7,Mumbai,krishna.verma140@example.com
+141,Kabir Ghosh,22,Mechanical,Fluid Mechanics,3,9.66,Jaipur,kabir.ghosh141@example.com
+142,Neha Khan,19,Electronics,Signals,1,6.56,Bengaluru,neha.khan142@example.com
+143,Aryan Das,19,Civil,Transportation,1,7.06,Delhi,aryan.das143@example.com
+144,Rahul Reddy,29,Biotechnology,Biochemistry,4,9.29,Hyderabad,rahul.reddy144@example.com
+145,Diya Mondal,18,Mathematics,Number Theory,3,9.66,Bengaluru,diya.mondal145@example.com
+146,Aisha Banerjee,29,Mathematics,Statistics,4,6.47,Kolkata,aisha.banerjee146@example.com
+147,Priya Mondal,19,Computer Science,Data Structures,2,9.55,Mumbai,priya.mondal147@example.com
+148,Aisha Das,28,Civil,Environmental Engineering,4,8.35,Mumbai,aisha.das148@example.com
+149,Arjun Ali,25,Civil,Environmental Engineering,4,9.76,Chennai,arjun.ali149@example.com
+150,Rahul Singh,25,Computer Science,Databases,2,9.42,Delhi,rahul.singh150@example.com
+151,Aryan Banerjee,28,Mechanical,Machine Design,1,7.59,Bengaluru,aryan.banerjee151@example.com
+152,Aisha Verma,28,Mathematics,Calculus,1,6.2,Hyderabad,aisha.verma152@example.com
+153,Krishna Khan,27,Chemistry,Physical Chemistry,1,9.32,Lucknow,krishna.khan153@example.com
+154,Saanvi Singh,21,Chemistry,Analytical Chemistry,2,9.15,Bhubaneswar,saanvi.singh154@example.com
+155,Ishita Ali,20,Computer Science,Operating Systems,3,9.19,Delhi,ishita.ali155@example.com
+156,Krishna Sharma,23,Computer Science,Operating Systems,3,6.06,Chennai,krishna.sharma156@example.com
+157,Krishna Iyer,24,Computer Science,Computer Networks,1,8.98,Jaipur,krishna.iyer157@example.com
+158,Rahul Ghosh,27,Biotechnology,Genetics,4,8.02,Bhubaneswar,rahul.ghosh158@example.com
+159,Kabir Patel,25,Computer Science,Data Structures,1,9.99,Pune,kabir.patel159@example.com
+160,Arjun Mondal,29,Civil,Transportation,1,9.6,Hyderabad,arjun.mondal160@example.com
+161,Aditya Gupta,22,Physics,Mechanics,3,7.52,Bhubaneswar,aditya.gupta161@example.com
+162,Aisha Ghosh,27,Electronics,Signals,1,9.17,Delhi,aisha.ghosh162@example.com
+163,Sneha Mondal,21,Chemistry,Biochemistry,3,9.31,Pune,sneha.mondal163@example.com
+164,Arjun Das,24,Civil,Geotechnical,3,7.5,Mumbai,arjun.das164@example.com
+165,Aditya Verma,19,Biotechnology,Genetics,4,6.39,Hyderabad,aditya.verma165@example.com
+166,Aryan Sharma,27,Physics,Mechanics,3,8.68,Pune,aryan.sharma166@example.com
+167,Sneha Ali,29,Mechanical,Thermodynamics,3,8.4,Hyderabad,sneha.ali167@example.com
+168,Saanvi Ghosh,21,Mathematics,Calculus,4,6.9,Delhi,saanvi.ghosh168@example.com
+169,Aryan Das,19,Mechanical,Machine Design,2,9.23,Lucknow,aryan.das169@example.com
+170,Nisha Banerjee,28,Computer Science,Python,1,6.72,Chennai,nisha.banerjee170@example.com
+171,Rahul Sharma,20,Mechanical,Fluid Mechanics,4,6.28,Kolkata,rahul.sharma171@example.com
+172,Kabir Singh,24,Mathematics,Discrete Mathematics,4,7.36,Hyderabad,kabir.singh172@example.com
+173,Neha Khan,27,Electronics,VLSI,1,9.53,Mumbai,neha.khan173@example.com
+174,Nisha Sharma,28,Physics,Quantum Mechanics,3,7.77,Pune,nisha.sharma174@example.com
+175,Nisha Mondal,24,Biotechnology,Biochemistry,2,9.02,Delhi,nisha.mondal175@example.com
+176,Sneha Verma,22,Mechanical,CAD,4,8.11,Chennai,sneha.verma176@example.com
+177,Diya Roy,27,Computer Science,Data Structures,1,6.82,Bengaluru,diya.roy177@example.com
+178,Ishita Patel,23,Physics,Quantum Mechanics,1,7.99,Pune,ishita.patel178@example.com
+179,Krishna Roy,26,Physics,Thermodynamics,3,6.29,Kolkata,krishna.roy179@example.com
+180,Aarav Mondal,19,Civil,Geotechnical,4,8.29,Pune,aarav.mondal180@example.com
+181,Arjun Roy,18,Electronics,Embedded Systems,2,9.21,Bhubaneswar,arjun.roy181@example.com
+182,Rahul Verma,24,Biotechnology,Genetics,2,7.74,Pune,rahul.verma182@example.com
+183,Karan Ali,22,Mathematics,Statistics,2,7.33,Mumbai,karan.ali183@example.com
+184,Kabir Reddy,19,Mathematics,Number Theory,2,9.62,Hyderabad,kabir.reddy184@example.com
+185,Krishna Singh,19,Mechanical,Fluid Mechanics,3,6.79,Bhubaneswar,krishna.singh185@example.com
+186,Aditya Gupta,30,Physics,Optics,4,9.02,Bhubaneswar,aditya.gupta186@example.com
+187,Saanvi Reddy,28,Biotechnology,Bioinformatics,3,9.46,Hyderabad,saanvi.reddy187@example.com
+188,Aisha Verma,25,Physics,Optics,3,9.19,Bhubaneswar,aisha.verma188@example.com
+189,Rahul Ghosh,19,Computer Science,Python,4,7.81,Kolkata,rahul.ghosh189@example.com
+190,Priya Verma,28,Mechanical,Thermodynamics,4,7.85,Lucknow,priya.verma190@example.com
+191,Aisha Banerjee,30,Computer Science,Computer Networks,2,7.29,Jaipur,aisha.banerjee191@example.com
+192,Vivaan Mondal,19,Physics,Electromagnetism,1,8.02,Mumbai,vivaan.mondal192@example.com
+193,Diya Iyer,25,Computer Science,Databases,2,7.46,Chennai,diya.iyer193@example.com
+194,Sneha Khan,23,Civil,Environmental Engineering,1,9.16,Hyderabad,sneha.khan194@example.com
+195,Neha Verma,26,Mathematics,Discrete Mathematics,3,7.01,Bhubaneswar,neha.verma195@example.com
+196,Neha Verma,27,Physics,Thermodynamics,3,7.24,Pune,neha.verma196@example.com
+197,Nisha Iyer,19,Physics,Electromagnetism,4,8.57,Hyderabad,nisha.iyer197@example.com
+198,Kabir Verma,28,Physics,Optics,3,6.07,Chennai,kabir.verma198@example.com
+199,Ananya Das,30,Physics,Optics,2,6.91,Mumbai,ananya.das199@example.com
+200,Aditya Patel,30,Physics,Quantum Mechanics,1,8.65,Bhubaneswar,aditya.patel200@example.com
+201,Nisha Roy,20,Physics,Thermodynamics,2,9.33,Bhubaneswar,nisha.roy201@example.com
+202,Aisha Sharma,24,Physics,Electromagnetism,2,9.88,Bhubaneswar,aisha.sharma202@example.com
+203,Aisha Singh,26,Electronics,Microprocessors,3,9.86,Jaipur,aisha.singh203@example.com
+204,Rahul Reddy,27,Chemistry,Biochemistry,4,9.08,Pune,rahul.reddy204@example.com
+205,Rohan Ali,21,Civil,Environmental Engineering,2,9.49,Kolkata,rohan.ali205@example.com
+206,Rahul Ghosh,19,Biotechnology,Bioinformatics,1,7.14,Mumbai,rahul.ghosh206@example.com
+207,Aisha Banerjee,26,Electronics,Microprocessors,4,6.37,Bengaluru,aisha.banerjee207@example.com
+208,Rahul Banerjee,18,Biotechnology,Cell Biology,1,7.59,Hyderabad,rahul.banerjee208@example.com
+209,Karan Verma,23,Chemistry,Physical Chemistry,1,7.27,Delhi,karan.verma209@example.com
+210,Krishna Gupta,18,Mechanical,Machine Design,4,8.78,Mumbai,krishna.gupta210@example.com
+211,Aisha Nair,18,Biotechnology,Genetics,1,7.02,Mumbai,aisha.nair211@example.com
+212,Arjun Khan,22,Civil,Surveying,3,6.49,Bengaluru,arjun.khan212@example.com
+213,Nisha Mondal,19,Civil,Structural Engineering,4,8.39,Kolkata,nisha.mondal213@example.com
+214,Krishna Patel,24,Chemistry,Organic Chemistry,3,6.96,Pune,krishna.patel214@example.com
+215,Aditya Ghosh,23,Physics,Quantum Mechanics,1,7.56,Jaipur,aditya.ghosh215@example.com
+216,Karan Das,22,Computer Science,Data Structures,3,9.15,Hyderabad,karan.das216@example.com
+217,Arjun Khan,27,Chemistry,Analytical Chemistry,2,6.18,Lucknow,arjun.khan217@example.com
+218,Rohan Ali,30,Mechanical,Manufacturing,4,8.53,Mumbai,rohan.ali218@example.com
+219,Aisha Sharma,22,Mathematics,Calculus,1,9.16,Kolkata,aisha.sharma219@example.com
+220,Priya Ghosh,24,Mechanical,CAD,4,7.01,Bengaluru,priya.ghosh220@example.com
+221,Rahul Ali,30,Electronics,Digital Electronics,3,7.09,Hyderabad,rahul.ali221@example.com
+222,Karan Iyer,25,Civil,Transportation,3,9.89,Jaipur,karan.iyer222@example.com
+223,Rahul Banerjee,30,Biotechnology,Bioinformatics,3,9.2,Pune,rahul.banerjee223@example.com
+224,Sneha Nair,20,Mathematics,Number Theory,3,7.28,Delhi,sneha.nair224@example.com
+225,Priya Patel,25,Mechanical,CAD,4,6.67,Jaipur,priya.patel225@example.com
+226,Aisha Sharma,29,Mechanical,Machine Design,4,7.1,Kolkata,aisha.sharma226@example.com
+227,Karan Das,26,Mathematics,Calculus,1,6.57,Bhubaneswar,karan.das227@example.com
+228,Vivaan Gupta,19,Biotechnology,Microbiology,3,7.45,Bhubaneswar,vivaan.gupta228@example.com
+229,Nisha Gupta,28,Computer Science,Databases,3,7.49,Delhi,nisha.gupta229@example.com
+230,Kabir Das,24,Physics,Electromagnetism,3,7.0,Delhi,kabir.das230@example.com
+231,Rohan Mondal,26,Computer Science,Databases,1,7.05,Chennai,rohan.mondal231@example.com
+232,Ananya Nair,22,Biotechnology,Cell Biology,2,6.49,Delhi,ananya.nair232@example.com
+233,Rohan Banerjee,29,Biotechnology,Cell Biology,1,9.24,Hyderabad,rohan.banerjee233@example.com
+234,Aditya Ghosh,26,Mechanical,Machine Design,3,9.41,Mumbai,aditya.ghosh234@example.com
+235,Kabir Singh,19,Mechanical,Fluid Mechanics,2,6.95,Jaipur,kabir.singh235@example.com
+236,Rahul Ghosh,27,Computer Science,Python,4,9.21,Lucknow,rahul.ghosh236@example.com
+237,Nisha Banerjee,19,Physics,Quantum Mechanics,3,7.59,Jaipur,nisha.banerjee237@example.com
+238,Sneha Ali,27,Civil,Structural Engineering,2,9.89,Delhi,sneha.ali238@example.com
+239,Aisha Reddy,26,Biotechnology,Biochemistry,2,9.51,Lucknow,aisha.reddy239@example.com
+240,Krishna Roy,26,Physics,Quantum Mechanics,1,8.07,Chennai,krishna.roy240@example.com
+241,Rohan Das,29,Physics,Thermodynamics,3,9.79,Lucknow,rohan.das241@example.com
+242,Aditya Patel,21,Electronics,VLSI,3,6.5,Chennai,aditya.patel242@example.com
+243,Kabir Reddy,20,Mathematics,Number Theory,2,6.68,Bhubaneswar,kabir.reddy243@example.com
+244,Saanvi Sharma,18,Mechanical,Thermodynamics,1,9.79,Bhubaneswar,saanvi.sharma244@example.com
+245,Ananya Khan,27,Electronics,Signals,1,7.99,Lucknow,ananya.khan245@example.com
+246,Priya Mondal,21,Electronics,Signals,3,7.81,Kolkata,priya.mondal246@example.com
+247,Aisha Roy,25,Physics,Optics,2,7.36,Mumbai,aisha.roy247@example.com
+248,Neha Iyer,23,Mechanical,Manufacturing,2,9.04,Lucknow,neha.iyer248@example.com
+249,Neha Singh,25,Mathematics,Linear Algebra,3,7.8,Mumbai,neha.singh249@example.com
+250,Vivaan Patel,24,Mathematics,Number Theory,4,6.99,Mumbai,vivaan.patel250@example.com
+251,Saanvi Iyer,23,Mechanical,Fluid Mechanics,2,7.99,Lucknow,saanvi.iyer251@example.com
+252,Meera Banerjee,22,Biotechnology,Cell Biology,1,6.36,Pune,meera.banerjee252@example.com
+253,Diya Singh,27,Biotechnology,Biochemistry,1,6.2,Jaipur,diya.singh253@example.com
+254,Priya Ghosh,18,Biotechnology,Genetics,4,6.54,Chennai,priya.ghosh254@example.com
+255,Karan Das,18,Mechanical,Manufacturing,1,8.28,Bengaluru,karan.das255@example.com
+256,Aryan Patel,19,Mechanical,Manufacturing,4,9.06,Chennai,aryan.patel256@example.com
+257,Krishna Verma,24,Mathematics,Statistics,3,8.23,Hyderabad,krishna.verma257@example.com
+258,Ananya Nair,26,Physics,Optics,1,6.18,Mumbai,ananya.nair258@example.com
+259,Meera Ghosh,25,Mechanical,Fluid Mechanics,2,7.31,Bhubaneswar,meera.ghosh259@example.com
+260,Rohan Roy,27,Mechanical,Machine Design,3,8.03,Lucknow,rohan.roy260@example.com
+261,Saanvi Patel,25,Biotechnology,Genetics,3,7.32,Delhi,saanvi.patel261@example.com
+262,Saanvi Patel,30,Civil,Structural Engineering,4,7.06,Bhubaneswar,saanvi.patel262@example.com
+263,Vivaan Nair,25,Chemistry,Physical Chemistry,4,6.59,Bengaluru,vivaan.nair263@example.com
+264,Saanvi Iyer,19,Computer Science,Operating Systems,1,7.76,Pune,saanvi.iyer264@example.com
+265,Sneha Iyer,21,Physics,Optics,4,9.49,Kolkata,sneha.iyer265@example.com
+266,Kabir Singh,26,Physics,Electromagnetism,4,8.1,Hyderabad,kabir.singh266@example.com
+267,Aisha Banerjee,26,Physics,Electromagnetism,3,8.7,Chennai,aisha.banerjee267@example.com
+268,Ananya Singh,22,Biotechnology,Bioinformatics,3,6.9,Chennai,ananya.singh268@example.com
+269,Ananya Iyer,29,Electronics,Signals,3,7.92,Lucknow,ananya.iyer269@example.com
+270,Priya Verma,27,Electronics,VLSI,4,9.58,Pune,priya.verma270@example.com
+271,Krishna Patel,18,Mechanical,Machine Design,1,7.39,Jaipur,krishna.patel271@example.com
+272,Meera Singh,21,Electronics,VLSI,3,9.73,Chennai,meera.singh272@example.com
+273,Arjun Nair,29,Physics,Mechanics,2,6.97,Lucknow,arjun.nair273@example.com
+274,Diya Sharma,19,Chemistry,Biochemistry,3,8.87,Delhi,diya.sharma274@example.com
+275,Aarav Ghosh,20,Physics,Optics,4,7.91,Bengaluru,aarav.ghosh275@example.com
+276,Neha Patel,28,Electronics,Digital Electronics,1,8.61,Bengaluru,neha.patel276@example.com
+277,Rohan Roy,20,Computer Science,Data Structures,4,9.15,Mumbai,rohan.roy277@example.com
+278,Vivaan Sharma,22,Electronics,VLSI,1,9.71,Hyderabad,vivaan.sharma278@example.com
+279,Aisha Reddy,26,Electronics,VLSI,4,9.56,Mumbai,aisha.reddy279@example.com
+280,Ishita Singh,30,Biotechnology,Genetics,3,6.65,Jaipur,ishita.singh280@example.com
+281,Rohan Sharma,29,Electronics,Embedded Systems,3,8.27,Bengaluru,rohan.sharma281@example.com
+282,Nisha Ali,28,Physics,Optics,4,8.06,Delhi,nisha.ali282@example.com
+283,Arjun Gupta,20,Civil,Transportation,3,9.74,Kolkata,arjun.gupta283@example.com
+284,Karan Singh,25,Electronics,Embedded Systems,3,7.21,Bhubaneswar,karan.singh284@example.com
+285,Ishita Reddy,23,Computer Science,Operating Systems,1,8.67,Jaipur,ishita.reddy285@example.com
+286,Rohan Roy,28,Electronics,VLSI,3,8.76,Chennai,rohan.roy286@example.com
+287,Nisha Singh,21,Mechanical,Fluid Mechanics,4,6.61,Bhubaneswar,nisha.singh287@example.com
+288,Sneha Iyer,26,Mechanical,Manufacturing,2,9.05,Bhubaneswar,sneha.iyer288@example.com
+289,Kabir Mondal,26,Mathematics,Statistics,1,9.67,Delhi,kabir.mondal289@example.com
+290,Aryan Banerjee,26,Computer Science,Operating Systems,2,6.66,Lucknow,aryan.banerjee290@example.com
+291,Arjun Reddy,21,Biotechnology,Bioinformatics,4,6.36,Lucknow,arjun.reddy291@example.com
+292,Vivaan Mondal,20,Biotechnology,Bioinformatics,4,7.83,Kolkata,vivaan.mondal292@example.com
+293,Priya Iyer,18,Biotechnology,Cell Biology,3,9.27,Bengaluru,priya.iyer293@example.com
+294,Vivaan Roy,23,Mathematics,Linear Algebra,1,9.74,Delhi,vivaan.roy294@example.com
+295,Vivaan Patel,24,Biotechnology,Microbiology,2,9.06,Pune,vivaan.patel295@example.com
+296,Karan Mondal,24,Mechanical,Manufacturing,1,8.73,Lucknow,karan.mondal296@example.com
+297,Rahul Verma,20,Physics,Mechanics,4,8.12,Bengaluru,rahul.verma297@example.com
+298,Aarav Patel,25,Computer Science,Computer Networks,4,8.13,Bengaluru,aarav.patel298@example.com
+299,Aisha Das,20,Chemistry,Analytical Chemistry,2,9.75,Delhi,aisha.das299@example.com
+300,Sneha Nair,30,Computer Science,Data Structures,2,6.82,Delhi,sneha.nair300@example.com
+301,Aisha Nair,28,Computer Science,Data Structures,2,8.96,Pune,aisha.nair301@example.com
+302,Diya Ghosh,21,Biotechnology,Genetics,2,8.02,Chennai,diya.ghosh302@example.com
+303,Saanvi Das,27,Chemistry,Inorganic Chemistry,3,6.95,Mumbai,saanvi.das303@example.com
+304,Sneha Patel,22,Chemistry,Organic Chemistry,2,8.5,Pune,sneha.patel304@example.com
+305,Vivaan Das,28,Biotechnology,Cell Biology,3,8.79,Pune,vivaan.das305@example.com
+306,Priya Roy,20,Physics,Mechanics,4,6.96,Bengaluru,priya.roy306@example.com
+307,Krishna Khan,25,Electronics,Digital Electronics,4,9.87,Lucknow,krishna.khan307@example.com
+308,Karan Singh,22,Physics,Thermodynamics,3,8.59,Jaipur,karan.singh308@example.com
+309,Aditya Ghosh,29,Mechanical,Fluid Mechanics,1,7.07,Bhubaneswar,aditya.ghosh309@example.com
+310,Aditya Singh,30,Computer Science,Computer Networks,2,7.92,Hyderabad,aditya.singh310@example.com
+311,Aarav Singh,21,Electronics,Digital Electronics,4,9.66,Bhubaneswar,aarav.singh311@example.com
+312,Karan Banerjee,21,Chemistry,Inorganic Chemistry,3,9.1,Pune,karan.banerjee312@example.com
+313,Aryan Reddy,23,Biotechnology,Biochemistry,3,7.44,Jaipur,aryan.reddy313@example.com
+314,Arjun Khan,29,Biotechnology,Cell Biology,3,9.66,Hyderabad,arjun.khan314@example.com
+315,Sneha Sharma,27,Mechanical,Fluid Mechanics,2,6.06,Lucknow,sneha.sharma315@example.com
+316,Priya Gupta,21,Civil,Geotechnical,2,7.52,Bengaluru,priya.gupta316@example.com
+317,Aryan Reddy,28,Biotechnology,Biochemistry,3,9.05,Jaipur,aryan.reddy317@example.com
+318,Aisha Gupta,29,Biotechnology,Biochemistry,2,6.56,Lucknow,aisha.gupta318@example.com
+319,Rohan Banerjee,26,Biotechnology,Genetics,1,9.36,Delhi,rohan.banerjee319@example.com
+320,Aarav Roy,20,Computer Science,Operating Systems,1,8.83,Kolkata,aarav.roy320@example.com
+321,Kabir Mondal,23,Chemistry,Organic Chemistry,4,8.64,Kolkata,kabir.mondal321@example.com
+322,Aryan Ghosh,24,Computer Science,Data Structures,1,8.12,Chennai,aryan.ghosh322@example.com
+323,Aarav Ghosh,29,Electronics,Signals,2,6.43,Delhi,aarav.ghosh323@example.com
+324,Diya Singh,27,Physics,Mechanics,3,9.26,Chennai,diya.singh324@example.com
+325,Aditya Das,24,Civil,Transportation,2,9.96,Bengaluru,aditya.das325@example.com
+326,Aditya Reddy,28,Electronics,Digital Electronics,1,7.62,Pune,aditya.reddy326@example.com
+327,Vivaan Reddy,18,Biotechnology,Microbiology,1,8.0,Pune,vivaan.reddy327@example.com
+328,Saanvi Ali,19,Mechanical,CAD,1,6.92,Bhubaneswar,saanvi.ali328@example.com
+329,Ishita Sharma,19,Biotechnology,Biochemistry,1,6.72,Hyderabad,ishita.sharma329@example.com
+330,Ananya Nair,20,Computer Science,Databases,1,7.2,Bhubaneswar,ananya.nair330@example.com
+331,Saanvi Ali,24,Chemistry,Inorganic Chemistry,3,7.54,Mumbai,saanvi.ali331@example.com
+332,Kabir Iyer,23,Mathematics,Linear Algebra,1,7.75,Delhi,kabir.iyer332@example.com
+333,Nisha Khan,27,Mechanical,CAD,4,9.88,Hyderabad,nisha.khan333@example.com
+334,Ishita Khan,25,Computer Science,Databases,2,7.42,Pune,ishita.khan334@example.com
+335,Rohan Reddy,27,Civil,Transportation,1,9.09,Chennai,rohan.reddy335@example.com
+336,Aditya Verma,22,Chemistry,Physical Chemistry,4,8.85,Mumbai,aditya.verma336@example.com
+337,Neha Das,19,Civil,Structural Engineering,1,9.77,Jaipur,neha.das337@example.com
+338,Ishita Verma,20,Mechanical,Thermodynamics,2,7.72,Lucknow,ishita.verma338@example.com
+339,Arjun Sharma,19,Civil,Geotechnical,1,8.39,Hyderabad,arjun.sharma339@example.com
+340,Aarav Patel,24,Civil,Transportation,1,8.9,Lucknow,aarav.patel340@example.com
+341,Saanvi Ghosh,20,Chemistry,Biochemistry,2,6.56,Chennai,saanvi.ghosh341@example.com
+342,Meera Gupta,19,Electronics,Microprocessors,4,7.1,Chennai,meera.gupta342@example.com
+343,Aditya Das,22,Biotechnology,Microbiology,4,8.38,Bengaluru,aditya.das343@example.com
+344,Arjun Gupta,22,Biotechnology,Genetics,4,7.33,Bhubaneswar,arjun.gupta344@example.com
+345,Neha Mondal,23,Civil,Transportation,2,7.2,Bhubaneswar,neha.mondal345@example.com
+346,Meera Das,20,Chemistry,Biochemistry,3,7.17,Jaipur,meera.das346@example.com
+347,Neha Roy,22,Chemistry,Biochemistry,3,6.46,Bhubaneswar,neha.roy347@example.com
+348,Saanvi Ghosh,20,Chemistry,Inorganic Chemistry,1,9.81,Jaipur,saanvi.ghosh348@example.com
+349,Aisha Khan,22,Chemistry,Organic Chemistry,4,8.69,Mumbai,aisha.khan349@example.com
+350,Diya Patel,28,Electronics,Microprocessors,4,9.16,Delhi,diya.patel350@example.com
+351,Nisha Mondal,27,Biotechnology,Cell Biology,4,8.17,Hyderabad,nisha.mondal351@example.com
+352,Arjun Khan,21,Mathematics,Statistics,2,8.59,Kolkata,arjun.khan352@example.com
+353,Neha Khan,24,Civil,Structural Engineering,1,6.39,Bengaluru,neha.khan353@example.com
+354,Aisha Das,24,Chemistry,Biochemistry,2,7.38,Kolkata,aisha.das354@example.com
+355,Arjun Patel,24,Biotechnology,Genetics,1,9.33,Mumbai,arjun.patel355@example.com
+356,Priya Das,25,Mechanical,Fluid Mechanics,4,7.39,Delhi,priya.das356@example.com
+357,Aisha Das,19,Biotechnology,Biochemistry,1,9.24,Delhi,aisha.das357@example.com
+358,Neha Reddy,19,Computer Science,Operating Systems,2,8.06,Lucknow,neha.reddy358@example.com
+359,Neha Ghosh,24,Physics,Optics,2,9.19,Mumbai,neha.ghosh359@example.com
+360,Sneha Roy,18,Physics,Mechanics,2,7.8,Pune,sneha.roy360@example.com
+361,Aarav Iyer,21,Civil,Surveying,3,9.01,Delhi,aarav.iyer361@example.com
+362,Aryan Gupta,23,Mathematics,Statistics,2,7.83,Chennai,aryan.gupta362@example.com
+363,Kabir Reddy,23,Biotechnology,Bioinformatics,4,8.45,Bhubaneswar,kabir.reddy363@example.com
+364,Rahul Das,25,Mathematics,Number Theory,2,9.25,Chennai,rahul.das364@example.com
+365,Krishna Das,19,Mathematics,Calculus,3,6.47,Hyderabad,krishna.das365@example.com
+366,Kabir Roy,24,Physics,Mechanics,2,8.3,Pune,kabir.roy366@example.com
+367,Meera Reddy,26,Physics,Thermodynamics,2,7.96,Mumbai,meera.reddy367@example.com
+368,Neha Ali,25,Physics,Mechanics,1,9.46,Kolkata,neha.ali368@example.com
+369,Krishna Singh,24,Biotechnology,Bioinformatics,4,7.64,Jaipur,krishna.singh369@example.com
+370,Aisha Mondal,20,Civil,Structural Engineering,1,9.18,Bengaluru,aisha.mondal370@example.com
+371,Vivaan Patel,21,Electronics,VLSI,3,6.67,Jaipur,vivaan.patel371@example.com
+372,Aryan Ghosh,19,Biotechnology,Bioinformatics,1,7.07,Lucknow,aryan.ghosh372@example.com
+373,Aryan Ali,30,Mechanical,Thermodynamics,4,8.19,Pune,aryan.ali373@example.com
+374,Diya Patel,18,Mathematics,Discrete Mathematics,3,7.39,Delhi,diya.patel374@example.com
+375,Arjun Khan,30,Biotechnology,Microbiology,2,9.24,Bhubaneswar,arjun.khan375@example.com
+376,Nisha Reddy,24,Mechanical,Fluid Mechanics,2,9.14,Bengaluru,nisha.reddy376@example.com
+377,Saanvi Das,26,Computer Science,Python,2,7.29,Chennai,saanvi.das377@example.com
+378,Saanvi Patel,26,Electronics,Digital Electronics,2,9.85,Pune,saanvi.patel378@example.com
+379,Ishita Ali,28,Computer Science,Operating Systems,2,7.0,Hyderabad,ishita.ali379@example.com
+380,Karan Mondal,20,Chemistry,Inorganic Chemistry,3,8.51,Pune,karan.mondal380@example.com
+381,Aditya Reddy,30,Biotechnology,Genetics,4,8.06,Chennai,aditya.reddy381@example.com
+382,Aisha Mondal,23,Mechanical,CAD,1,9.48,Delhi,aisha.mondal382@example.com
+383,Rahul Ali,19,Biotechnology,Bioinformatics,4,6.87,Pune,rahul.ali383@example.com
+384,Meera Patel,23,Chemistry,Analytical Chemistry,3,8.19,Mumbai,meera.patel384@example.com
+385,Neha Banerjee,28,Biotechnology,Genetics,1,6.4,Jaipur,neha.banerjee385@example.com
+386,Arjun Banerjee,20,Computer Science,Databases,4,6.0,Pune,arjun.banerjee386@example.com
+387,Krishna Banerjee,28,Chemistry,Analytical Chemistry,2,9.5,Chennai,krishna.banerjee387@example.com
+388,Rahul Patel,19,Mathematics,Statistics,2,6.21,Chennai,rahul.patel388@example.com
+389,Sneha Reddy,19,Chemistry,Organic Chemistry,1,6.85,Delhi,sneha.reddy389@example.com
+390,Saanvi Singh,26,Physics,Optics,1,6.03,Hyderabad,saanvi.singh390@example.com
+391,Sneha Iyer,20,Mathematics,Discrete Mathematics,1,6.92,Delhi,sneha.iyer391@example.com
+392,Arjun Das,23,Mathematics,Statistics,2,7.53,Mumbai,arjun.das392@example.com
+393,Aditya Ghosh,27,Physics,Quantum Mechanics,2,7.76,Bengaluru,aditya.ghosh393@example.com
+394,Sneha Nair,28,Physics,Optics,2,6.35,Delhi,sneha.nair394@example.com
+395,Arjun Nair,29,Physics,Optics,3,9.85,Hyderabad,arjun.nair395@example.com
+396,Diya Patel,28,Physics,Quantum Mechanics,2,8.21,Bhubaneswar,diya.patel396@example.com
+397,Aarav Ali,28,Electronics,Embedded Systems,2,8.07,Lucknow,aarav.ali397@example.com
+398,Karan Patel,28,Chemistry,Organic Chemistry,2,7.98,Delhi,karan.patel398@example.com
+399,Meera Reddy,27,Chemistry,Organic Chemistry,1,9.95,Hyderabad,meera.reddy399@example.com
+400,Karan Ali,27,Physics,Optics,3,8.19,Mumbai,karan.ali400@example.com
+401,Aditya Sharma,27,Biotechnology,Genetics,1,7.05,Kolkata,aditya.sharma401@example.com
+402,Karan Ghosh,22,Computer Science,Computer Networks,4,7.69,Pune,karan.ghosh402@example.com
+403,Aryan Ghosh,27,Mathematics,Calculus,3,6.33,Delhi,aryan.ghosh403@example.com
+404,Krishna Ghosh,23,Chemistry,Biochemistry,1,7.24,Pune,krishna.ghosh404@example.com
+405,Vivaan Singh,19,Chemistry,Biochemistry,1,7.81,Bhubaneswar,vivaan.singh405@example.com
+406,Priya Reddy,29,Computer Science,Operating Systems,1,6.05,Mumbai,priya.reddy406@example.com
+407,Rohan Mondal,23,Computer Science,Computer Networks,3,6.67,Mumbai,rohan.mondal407@example.com
+408,Arjun Khan,18,Electronics,Embedded Systems,4,7.09,Delhi,arjun.khan408@example.com
+409,Saanvi Reddy,19,Electronics,Signals,4,8.04,Kolkata,saanvi.reddy409@example.com
+410,Saanvi Gupta,23,Biotechnology,Microbiology,3,9.09,Bhubaneswar,saanvi.gupta410@example.com
+411,Diya Iyer,26,Mathematics,Linear Algebra,1,9.43,Kolkata,diya.iyer411@example.com
+412,Vivaan Mondal,23,Chemistry,Biochemistry,2,6.72,Kolkata,vivaan.mondal412@example.com
+413,Diya Das,21,Civil,Transportation,3,7.09,Delhi,diya.das413@example.com
+414,Arjun Ghosh,28,Mechanical,Thermodynamics,2,6.89,Lucknow,arjun.ghosh414@example.com
+415,Karan Verma,25,Computer Science,Python,3,7.31,Lucknow,karan.verma415@example.com
+416,Aarav Das,21,Biotechnology,Biochemistry,3,8.96,Bengaluru,aarav.das416@example.com
+417,Rahul Nair,25,Biotechnology,Microbiology,2,6.6,Pune,rahul.nair417@example.com
+418,Diya Ghosh,23,Computer Science,Data Structures,3,6.01,Pune,diya.ghosh418@example.com
+419,Arjun Singh,26,Electronics,Microprocessors,4,7.97,Kolkata,arjun.singh419@example.com
+420,Ishita Verma,18,Physics,Thermodynamics,4,8.8,Hyderabad,ishita.verma420@example.com
+421,Aditya Nair,19,Biotechnology,Bioinformatics,2,8.55,Pune,aditya.nair421@example.com
+422,Saanvi Nair,18,Mathematics,Discrete Mathematics,2,6.95,Chennai,saanvi.nair422@example.com
+423,Karan Iyer,29,Mechanical,Machine Design,3,7.81,Bengaluru,karan.iyer423@example.com
+424,Ananya Gupta,30,Mathematics,Number Theory,1,6.62,Mumbai,ananya.gupta424@example.com
+425,Aisha Das,24,Biotechnology,Genetics,3,9.86,Bengaluru,aisha.das425@example.com
+426,Priya Mondal,22,Biotechnology,Genetics,1,6.63,Chennai,priya.mondal426@example.com
+427,Ananya Ali,23,Computer Science,Operating Systems,1,8.84,Hyderabad,ananya.ali427@example.com
+428,Kabir Sharma,28,Civil,Geotechnical,3,9.28,Mumbai,kabir.sharma428@example.com
+429,Karan Ali,25,Computer Science,Computer Networks,2,6.38,Delhi,karan.ali429@example.com
+430,Arjun Sharma,18,Physics,Thermodynamics,2,6.79,Pune,arjun.sharma430@example.com
+431,Aditya Nair,27,Mechanical,Machine Design,1,6.09,Delhi,aditya.nair431@example.com
+432,Aisha Khan,20,Chemistry,Organic Chemistry,3,6.49,Jaipur,aisha.khan432@example.com
+433,Rohan Banerjee,27,Computer Science,Databases,4,7.98,Pune,rohan.banerjee433@example.com
+434,Rohan Das,21,Civil,Surveying,3,7.12,Mumbai,rohan.das434@example.com
+435,Nisha Nair,27,Computer Science,Operating Systems,3,8.0,Lucknow,nisha.nair435@example.com
+436,Vivaan Verma,22,Biotechnology,Cell Biology,2,7.68,Lucknow,vivaan.verma436@example.com
+437,Aryan Khan,18,Chemistry,Biochemistry,3,7.92,Jaipur,aryan.khan437@example.com
+438,Saanvi Ghosh,23,Mechanical,Manufacturing,3,6.72,Hyderabad,saanvi.ghosh438@example.com
+439,Aarav Banerjee,30,Chemistry,Analytical Chemistry,1,9.23,Jaipur,aarav.banerjee439@example.com
+440,Saanvi Singh,20,Mechanical,Thermodynamics,2,8.63,Chennai,saanvi.singh440@example.com
+441,Diya Nair,30,Computer Science,Databases,3,9.74,Mumbai,diya.nair441@example.com
+442,Diya Nair,23,Physics,Electromagnetism,1,8.81,Hyderabad,diya.nair442@example.com
+443,Saanvi Singh,30,Physics,Optics,3,6.7,Kolkata,saanvi.singh443@example.com
+444,Vivaan Singh,27,Mathematics,Calculus,1,8.11,Kolkata,vivaan.singh444@example.com
+445,Nisha Singh,30,Mechanical,Fluid Mechanics,3,8.87,Hyderabad,nisha.singh445@example.com
+446,Aarav Gupta,27,Computer Science,Operating Systems,1,9.39,Hyderabad,aarav.gupta446@example.com
+447,Rahul Iyer,28,Mathematics,Discrete Mathematics,1,7.35,Hyderabad,rahul.iyer447@example.com
+448,Rohan Iyer,24,Physics,Optics,3,6.7,Lucknow,rohan.iyer448@example.com
+449,Diya Reddy,27,Mechanical,Fluid Mechanics,4,7.23,Chennai,diya.reddy449@example.com
+450,Rohan Iyer,18,Physics,Mechanics,4,9.4,Bhubaneswar,rohan.iyer450@example.com
+451,Rohan Nair,23,Computer Science,Computer Networks,2,8.56,Delhi,rohan.nair451@example.com
+452,Krishna Das,29,Biotechnology,Genetics,2,7.39,Hyderabad,krishna.das452@example.com
+453,Aditya Ali,29,Physics,Electromagnetism,4,6.05,Bengaluru,aditya.ali453@example.com
+454,Aditya Das,22,Chemistry,Organic Chemistry,1,6.19,Jaipur,aditya.das454@example.com
+455,Rohan Banerjee,24,Civil,Transportation,4,7.4,Pune,rohan.banerjee455@example.com
+456,Meera Khan,27,Mathematics,Calculus,2,7.81,Kolkata,meera.khan456@example.com
+457,Aarav Das,22,Electronics,Digital Electronics,1,7.37,Pune,aarav.das457@example.com
+458,Aditya Ghosh,19,Physics,Electromagnetism,4,8.82,Pune,aditya.ghosh458@example.com
+459,Nisha Banerjee,24,Physics,Thermodynamics,1,6.41,Bengaluru,nisha.banerjee459@example.com
+460,Sneha Iyer,26,Chemistry,Inorganic Chemistry,3,8.64,Chennai,sneha.iyer460@example.com
+461,Arjun Sharma,24,Chemistry,Inorganic Chemistry,4,6.61,Hyderabad,arjun.sharma461@example.com
+462,Sneha Verma,22,Computer Science,Computer Networks,4,6.8,Kolkata,sneha.verma462@example.com
+463,Rohan Reddy,22,Chemistry,Organic Chemistry,4,9.38,Chennai,rohan.reddy463@example.com
+464,Meera Mondal,28,Civil,Geotechnical,1,8.57,Pune,meera.mondal464@example.com
+465,Rahul Banerjee,24,Physics,Electromagnetism,2,7.78,Chennai,rahul.banerjee465@example.com
+466,Aisha Patel,21,Biotechnology,Biochemistry,1,6.6,Delhi,aisha.patel466@example.com
+467,Rahul Khan,26,Mathematics,Discrete Mathematics,2,8.21,Pune,rahul.khan467@example.com
+468,Aryan Reddy,25,Civil,Environmental Engineering,2,7.91,Delhi,aryan.reddy468@example.com
+469,Vivaan Ghosh,27,Civil,Environmental Engineering,2,6.48,Jaipur,vivaan.ghosh469@example.com
+470,Rohan Singh,30,Physics,Thermodynamics,2,6.17,Delhi,rohan.singh470@example.com
+471,Ananya Ali,28,Civil,Surveying,3,7.28,Delhi,ananya.ali471@example.com
+472,Karan Ghosh,24,Mathematics,Number Theory,3,9.43,Lucknow,karan.ghosh472@example.com
+473,Aarav Khan,29,Biotechnology,Bioinformatics,4,6.45,Mumbai,aarav.khan473@example.com
+474,Saanvi Nair,27,Physics,Quantum Mechanics,1,8.25,Delhi,saanvi.nair474@example.com
+475,Aryan Banerjee,23,Electronics,Signals,3,7.53,Jaipur,aryan.banerjee475@example.com
+476,Vivaan Gupta,22,Biotechnology,Cell Biology,2,8.47,Pune,vivaan.gupta476@example.com
+477,Karan Banerjee,23,Computer Science,Operating Systems,1,8.98,Chennai,karan.banerjee477@example.com
+478,Aarav Das,30,Mechanical,Machine Design,3,7.12,Jaipur,aarav.das478@example.com
+479,Diya Gupta,22,Mathematics,Discrete Mathematics,3,7.08,Pune,diya.gupta479@example.com
+480,Ananya Mondal,21,Mathematics,Discrete Mathematics,4,9.04,Hyderabad,ananya.mondal480@example.com
+481,Kabir Khan,20,Computer Science,Data Structures,3,8.84,Pune,kabir.khan481@example.com
+482,Kabir Banerjee,27,Physics,Quantum Mechanics,2,6.77,Bengaluru,kabir.banerjee482@example.com
+483,Diya Sharma,25,Computer Science,Data Structures,3,8.82,Chennai,diya.sharma483@example.com
+484,Aisha Ghosh,24,Mechanical,Thermodynamics,1,6.97,Jaipur,aisha.ghosh484@example.com
+485,Rohan Ali,25,Biotechnology,Bioinformatics,3,7.38,Chennai,rohan.ali485@example.com
+486,Priya Sharma,24,Mathematics,Linear Algebra,2,9.42,Bengaluru,priya.sharma486@example.com
+487,Diya Reddy,21,Chemistry,Analytical Chemistry,4,8.05,Kolkata,diya.reddy487@example.com
+488,Krishna Reddy,20,Biotechnology,Bioinformatics,1,6.9,Bhubaneswar,krishna.reddy488@example.com
+489,Ishita Roy,24,Electronics,Embedded Systems,4,7.01,Jaipur,ishita.roy489@example.com
+490,Kabir Ali,27,Electronics,Signals,1,6.03,Hyderabad,kabir.ali490@example.com
+491,Priya Reddy,19,Electronics,Signals,1,7.35,Chennai,priya.reddy491@example.com
+492,Ishita Patel,28,Mechanical,Machine Design,2,6.6,Bengaluru,ishita.patel492@example.com
+493,Nisha Roy,28,Computer Science,Python,2,8.89,Jaipur,nisha.roy493@example.com
+494,Ishita Banerjee,24,Electronics,Signals,4,8.95,Bhubaneswar,ishita.banerjee494@example.com
+495,Neha Iyer,29,Chemistry,Physical Chemistry,4,9.63,Hyderabad,neha.iyer495@example.com
+496,Rohan Ali,28,Electronics,VLSI,2,7.18,Jaipur,rohan.ali496@example.com
+497,Ishita Iyer,30,Physics,Mechanics,2,9.79,Hyderabad,ishita.iyer497@example.com
+498,Diya Das,21,Mathematics,Statistics,4,9.15,Hyderabad,diya.das498@example.com
+499,Ishita Nair,22,Mechanical,Manufacturing,1,7.88,Bhubaneswar,ishita.nair499@example.com
+500,Meera Banerjee,21,Mathematics,Number Theory,1,9.47,Pune,meera.banerjee500@example.com
